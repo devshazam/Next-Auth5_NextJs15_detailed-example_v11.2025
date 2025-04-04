@@ -1,0 +1,23 @@
+# Mutual var
+# NODE_ENV="development"
+NODE_ENV="production"
+
+
+
+# CONSTANTS #######################################################
+
+# RESEND MAILER
+RESEND_API_KEY="XXX"
+# Ссылка 
+NEXT_PUBLIC_APP_URL="XXX" 
+
+# AUTH
+AUTH_SECRET="XXX"
+# Google 
+AUTH_GOOGLE_ID="XXX"
+AUTH_GOOGLE_SECRET="XXX"
+
+
+# DB
+DATABASE_URL='XXX'
+SHADOW_DATABASE_URL='XXX'
